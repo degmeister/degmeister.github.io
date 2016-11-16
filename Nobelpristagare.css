@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+body{ 
+	margin:0;
+	padding:0; 
+}
+#storbox{ 
+	background-color:#666;
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+#Alfred{
+	background-color:#666;
+	width:10%;
+	height:100%;
+}
+#NobelPrisText{
+	background-color:#093;
+	width:50%;
+	height:100%;
+	float:right;
+}
+header{
+	background-color:#093;
+	width:100%;
+	height:25%;
+	float:left;
+}
+nav{
+	background-color:#063;
+	width:100%;
+	height:9%;
+	padding:25px;
+	box-sizing:border-box;
+	overflow:hidden;
+}
+article{
+	background-color:#0C9;
+	width:100%; 
+	height:91%;
+	overflow:auto;	 
+}
+aside{ 
+	background-color:#099;
+	width:20%;
+	height:75%;
+	float:left;
+}
+ul{
+	list-style:none;
+	text-align:center;
+	padding:0;
+	margin:0; 
+}
+li{
+	height:100%;
+	width:20%;
+	float:left;
+	font-size:18px;
+}
+
