@@ -292,6 +292,31 @@ p {
   	height: 100%;
   	overflow: hidden;
 	}
+		#stylefortextbox1a{
+    margin-top: 45px;
+    margin-right: 30px;
+    margin-left: 60px;
+    font-size:11px;
+	}
+	#stylefortextbox2a{
+	margin-top:30px;
+	margin-right:25px;
+	margin-left:60px;
+	 font-size:11px;
+	}
+	#stylefortextbox3a{
+	margin-top:25px;
+	margin-right:25px;
+	margin-left:60px;
+	 font-size:11px;
+	}
+	#stylefortextbox4a{
+	margin-top:auto;
+	margin-bottom:auto;
+	margin-right:auto;
+	margin-left:60px;
+	 font-size:11px;
+	}
 	body{
 		min-width:640px;
 	}
