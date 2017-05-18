@@ -373,6 +373,27 @@ p {
     margin-left: 150px;
     font-size:15px;
     }	
+    #stylefortextbox2{
+    margin-top:25px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    margin-left: 150px;
+    font-size:15px;
+    }
+    #stylefortextbox3{
+    margin-top:30px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    margin-left: 150px;
+    font-size:15px;
+    }
+    #stylefortextbox4{
+    margin-top:30px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    margin-left: 150px;
+    font-size:15px;
+    }
      #wrapper {
      position: absolute;
      width: 100%;
