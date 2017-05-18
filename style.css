@@ -285,7 +285,92 @@ p {
 	margin-left:720px;
 	
 }
-@media screen and (max-width: 640px){
+
+@media screen and (max-width: 1024px) {	
+    #stylefortextbox1{
+    margin-top: 190px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    margin-left: 150px;
+    font-size:15px;
+    }	
+    #stylefortextbox2{
+    margin-top:25px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    margin-left: 150px;
+    font-size:15px;
+    }
+    #stylefortextbox3{
+    margin-top:30px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    margin-left: 150px;
+    font-size:15px;
+    }
+    #stylefortextbox4{
+    margin-top:30px;
+    margin-bottom: 30px;
+    margin-right: 70px;
+    margin-left: 150px;
+    font-size:15px;
+    }
+	 #stylefortextbox1a{
+    margin-top:190px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    margin-left: 250px;
+    font-size:15px;
+}	
+#stylefortextbox2a{
+	margin-top:30px;
+	margin-right:25px;
+	margin-left:250px;
+	font-size:15px;
+}
+#stylefortextbox3a{
+	margin-top:25px;
+	margin-right:25px;
+	margin-left:250px;
+	font-size:15px;
+}
+#stylefortextbox4a{
+	margin-top:auto;
+	margin-bottom:auto;
+	margin-right:auto;
+	margin-left:250px;
+	 font-size:15px;
+}
+     #wrapper {
+     position: absolute;
+     width: 100%;
+     height: 100%;
+     overflow:auto;
+}
+  body {
+    min-width: 65%;
+	min-height:55%;
+  }
+  .box {
+    width: 90%;
+  }
+  .container #nav {
+    width:auto;
+    max-width: 1024px;
+    height: inherit;
+    position: absolute;
+    top: 0;
+    right: -230px;
+  }
+  .container #nav li.bars {
+    display: block;
+  }
+  .container #nav li a:hover {
+    border-color: transparent;
+    color: #5cd;
+  }
+}
+@media  screen and (max-width: 640px){
 	#wrapper {
   	position: absolute;
   	width: 100%;
@@ -345,9 +430,6 @@ p {
 	margin-left:60px;
 	 font-size:6px;
 }
-	body{
-		min-width:640px;
-	}
 	.container #nav{
 		width:auto;
 		max-width:640px;
@@ -364,88 +446,4 @@ p {
 		color:#5cd;
 	}
     }
-}
-@media (max-width: 1024px) {	
-    #stylefortextbox1{
-    margin-top: 190px;
-    margin-bottom: 30px;
-    margin-right: 70px;
-    margin-left: 150px;
-    font-size:15px;
-    }	
-    #stylefortextbox2{
-    margin-top:25px;
-    margin-bottom: 30px;
-    margin-right: 70px;
-    margin-left: 150px;
-    font-size:15px;
-    }
-    #stylefortextbox3{
-    margin-top:30px;
-    margin-bottom: 30px;
-    margin-right: 70px;
-    margin-left: 150px;
-    font-size:15px;
-    }
-    #stylefortextbox4{
-    margin-top:30px;
-    margin-bottom: 30px;
-    margin-right: 70px;
-    margin-left: 150px;
-    font-size:15px;
-    }
-	 #stylefortextbox1a{
-    margin-top:190px;
-    margin-bottom: 30px;
-    margin-right: 40px;
-    margin-left: 250px;
-    font-size:15px;
-}	
-#stylefortextbox2a{
-	margin-top:30px;
-	margin-right:25px;
-	margin-left:250px;
-	font-size:15px;
-}
-#stylefortextbox3a{
-	margin-top:25px;
-	margin-right:25px;
-	margin-left:250px;
-	font-size:15px;
-}
-#stylefortextbox4a{
-	margin-top:auto;
-	margin-bottom:auto;
-	margin-right:auto;
-	margin-left:250px;
-	 font-size:15px;
-}
-     #wrapper {
-     position: absolute;
-     width: 100%;
-     height: 100%;
-     overflow: hidden;
-}
-  body {
-    min-width: 65%;
-	min-height:55%;
-  }
-  .box {
-    width: 90%;
-  }
-  .container #nav {
-    width:auto;
-    max-width: 1024px;
-    height: inherit;
-    position: absolute;
-    top: 0;
-    right: -230px;
-  }
-  .container #nav li.bars {
-    display: block;
-  }
-  .container #nav li a:hover {
-    border-color: transparent;
-    color: #5cd;
-  }
 }
