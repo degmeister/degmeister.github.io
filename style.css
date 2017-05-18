@@ -365,7 +365,7 @@ p {
 	}
 	
 }
-@media (max-width: 480px) {	
+@media (max-width: 1024px) {	
 	#wrapper {
   	position: absolute;
   	width: 100%;
@@ -381,7 +381,7 @@ p {
   }
   .container #nav {
     width:auto;
-    max-width: 480px;
+    max-width: 1024px;
     height: inherit;
     position: absolute;
     top: 0;
