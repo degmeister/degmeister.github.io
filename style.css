@@ -240,50 +240,56 @@ p {
     margin-bottom: 50px;
     margin-right: 200px;
     margin-left: 590px;
+    background-color: rgba(0,0,0,0.5)
 }
 #stylefortextbox1a{
     margin-top:190px;
     margin-bottom: 30px;
     margin-right: 670px;
     margin-left: 720px;
+    background-color: rgba(0,0,0,0.5)
 }
 #stylefortextbox2{
     margin-top:25px;
     margin-bottom: 50px;
     margin-right: 200px;
     margin-left: 590px;
+    background-color: rgba(0,0,0,0.5)
 }
 #stylefortextbox2a{
 	margin-top:30px;
 	margin-bottom:20px;
 	margin-right:670px;
 	margin-left:720px;
+	background-color: rgba(0,0,0,0.5)
 }
 #stylefortextbox3{
     margin-top:25px;
     margin-bottom: 30px;
     margin-right: 200px;
     margin-left: 590px;
+    background-color: rgba(0,0,0,0.5)
 }
 #stylefortextbox3a{
 	margin-top:25px;
 	margin-bottom:40px;
 	margin-right:670px;
 	margin-left:720px;
-	
+	background-color: rgba(0,0,0,0.5)	
 }
 #stylefortextbox4{
     margin-top:25px;
     margin-bottom: 100px;
     margin-right: 200px;
     margin-left: 590px;
+    background-color: rgba(0,0,0,0.5)
 }
 #stylefortextbox4a{
 	margin-top:20px;
 	margin-bottom:850px;
 	margin-right:670px;
 	margin-left:720px;
-	
+ 	background-color: rgba(0,0,0,0.5)	
 }
 
 @media screen and (max-width: 1024px) {	
